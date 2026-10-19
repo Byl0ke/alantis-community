@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://byl0ke.github.io/alantis-community/sitemap.xml
